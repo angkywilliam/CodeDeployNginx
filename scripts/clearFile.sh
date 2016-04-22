@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /usr/share/nginx/html/*
+rm -rf /usr/share/nginx/html/*
